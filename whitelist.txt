@@ -79,3 +79,4 @@
 @@||msftncsi.com^$important
 @@||www.msftncsi.com^$important
 @@||ipv6.msftncsi.com^$important
+@@||sos112.si^$important
